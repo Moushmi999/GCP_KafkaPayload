@@ -1,2 +1,2 @@
 # GCP_KafkaPayload
-To load a p kafka payload  to GCP bucket
+To load  kafka payload  to GCP bucket
